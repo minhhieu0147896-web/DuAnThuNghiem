@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\thuc_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\thuc_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\chi_tiet_thuc_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\chi_tiet_thuc_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\chi_tiet_mon_an.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\chi_tiet_mon_an.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\bao_cao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\bao_cao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\che_do.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\chi_tiet_mon_an.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\chi_tiet_mon_an.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\chi_tiet_thuc_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\chi_tiet_thuc_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\thuc_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|solutionrelative:frmfornhvhc\\entity\\thuc_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B09634F5-BA9F-4C3B-91D6-09C00A533AEF}|frmfornhvhc\\frmfornhvhc.csproj|e:\\clone git\\duanthunghiem\\frmfornhvhc\\frmfornhvhc\\entity\\thuc_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\User.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\User.cs",
@@ -95,20 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Thuc_pham.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Thuc_pham.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Thuc_pham.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Thuc_pham.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Thuc_pham.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Thuc_pham.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Thuc_pham.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA7wAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:14:01.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Chi_tiet_thuc_don.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Chi_tiet_thuc_don.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Chi_tiet_thuc_don.cs",
@@ -121,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Chi_tiet_mon_an.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Chi_tiet_mon_an.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Chi_tiet_mon_an.cs",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Che_do.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Che_do.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Che_do.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Buoi_an.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Buoi_an.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Buoi_an.cs",
@@ -160,13 +160,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Bao_cao.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Bao_cao.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Bao_cao.cs",
               "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Bao_cao.cs",
               "RelativeToolTip": "frmfornhvhc\\entity\\Bao_cao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:12:29.181Z",
               "EditorCaption": ""
@@ -177,8 +177,8 @@
               "Title": "Thuc_don.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Thuc_don.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Thuc_don.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Thuc_don.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Thuc_don.cs*",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Thuc_don.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Thuc_don.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:13:58.093Z",
@@ -190,8 +190,8 @@
               "Title": "Quan_so_an.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Quan_so_an.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Quan_so_an.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Quan_so_an.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Quan_so_an.cs*",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Quan_so_an.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Quan_so_an.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:13:54.79Z",
@@ -203,8 +203,8 @@
               "Title": "Quan_nhan.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Quan_nhan.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Quan_nhan.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Quan_nhan.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Quan_nhan.cs*",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Quan_nhan.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Quan_nhan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:13:51.506Z",
@@ -216,8 +216,8 @@
               "Title": "Phieu_cat_com.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Phieu_cat_com.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Phieu_cat_com.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Phieu_cat_com.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Phieu_cat_com.cs*",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Phieu_cat_com.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Phieu_cat_com.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:13:47.95Z",
@@ -229,8 +229,8 @@
               "Title": "Mon_an.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Mon_an.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Mon_an.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Mon_an.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Mon_an.cs*",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Mon_an.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Mon_an.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:13:44.506Z",
@@ -242,8 +242,8 @@
               "Title": "Don_vi.cs",
               "DocumentMoniker": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Don_vi.cs",
               "RelativeDocumentMoniker": "frmfornhvhc\\entity\\Don_vi.cs",
-              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Don_vi.cs*",
-              "RelativeToolTip": "frmfornhvhc\\entity\\Don_vi.cs*",
+              "ToolTip": "E:\\Clone Git\\DuAnThuNghiem\\frmfornhvhc\\frmfornhvhc\\entity\\Don_vi.cs",
+              "RelativeToolTip": "frmfornhvhc\\entity\\Don_vi.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:13:40.966Z",
