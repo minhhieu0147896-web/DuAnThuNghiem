@@ -1,0 +1,6 @@
+D:\Hoc ki 2 nam II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Quan li tieu chuan an.csproj.AssemblyReference.cache
+D:\Hoc ki 2 nam II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.frm_Main.resources
+D:\Hoc ki 2 nam II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GUI.Giao_diện_đầu.resources
+D:\Hoc ki 2 nam II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Hoc ki 2 nam II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Quan li tieu chuan an.csproj.GenerateResource.cache
+D:\Hoc ki 2 nam II\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Quan li tieu chuan an.csproj.CoreCompileInputs.cache
