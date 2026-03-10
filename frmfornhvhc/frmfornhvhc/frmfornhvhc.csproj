@@ -46,6 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="entity\Bao_cao.cs" />
+    <Compile Include="entity\Buoi_an.cs" />
+    <Compile Include="entity\Che_do.cs" />
+    <Compile Include="entity\Chi_tiet_mon_an.cs" />
+    <Compile Include="entity\Chi_tiet_thuc_don.cs" />
+    <Compile Include="entity\Dinh_luong.cs" />
+    <Compile Include="entity\Don_vi.cs" />
+    <Compile Include="entity\Mon_an.cs" />
+    <Compile Include="entity\Phieu_cat_com.cs" />
+    <Compile Include="entity\Quan_nhan.cs" />
+    <Compile Include="entity\Quan_so_an.cs" />
+    <Compile Include="entity\Thuc_don.cs" />
+    <Compile Include="entity\Thuc_pham.cs" />
+    <Compile Include="entity\User.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,5 +136,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

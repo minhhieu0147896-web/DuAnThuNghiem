@@ -13,3 +13,4 @@ E:\Clone Git\DuAnThuNghiem\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFo
 E:\Clone Git\DuAnThuNghiem\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 E:\Clone Git\DuAnThuNghiem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 E:\Clone Git\DuAnThuNghiem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Clone Git\DuAnThuNghiem\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config

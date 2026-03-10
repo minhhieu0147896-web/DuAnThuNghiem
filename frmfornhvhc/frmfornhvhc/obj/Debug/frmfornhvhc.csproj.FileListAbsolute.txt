@@ -12,3 +12,17 @@ E:\hoclaptrinh\btNNLT\W1\winform\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.e
 E:\hoclaptrinh\btNNLT\W1\winform\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmbqs.resources
 E:\hoclaptrinh\btNNLT\W1\winform\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmLSQS.resources
 E:\hoclaptrinh\btNNLT\W1\winform\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmddtc.resources
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\bin\Debug\frmfornhvhc.exe.config
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\bin\Debug\frmfornhvhc.exe
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\bin\Debug\frmfornhvhc.pdb
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.csproj.AssemblyReference.cache
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.exe.config
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmmain.resources
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmbqs.resources
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmddtc.resources
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.frmLSQS.resources
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.Properties.Resources.resources
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.csproj.GenerateResource.cache
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.csproj.CoreCompileInputs.cache
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.exe
+E:\Clone Git\DuAnThuNghiem\frmfornhvhc\frmfornhvhc\obj\Debug\frmfornhvhc.pdb
